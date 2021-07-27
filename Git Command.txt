@@ -45,3 +45,4 @@ Git merge conflict - It arises when you have to merge branches that have a confl
    finally we merge the conflicting commits into a single commit 
    
 Thank you very much guys!!!!!!!!!!!!!!
+Have a wonderful day
