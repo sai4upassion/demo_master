@@ -5,7 +5,7 @@
 4) git init  #.git gets created
 5) git status
 6) git add <filename> or git add .
-7) git commit –m “message”
+7) git commit â€“m â€œmessageâ€
 8) git config --global user.name "<github account name>"
 9) git config --global user.email <github email address>
 10) git config --list
@@ -43,3 +43,4 @@ Git merge conflict - It arises when you have to merge branches that have a confl
    IN GUI -- > click on pull request under repositories  to find the conflict file
    in CLI --> git status 
    finally we merge the conflicting commits into a single commit 
+   Good night sweet dreams
