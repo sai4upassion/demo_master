@@ -43,6 +43,10 @@ Git merge conflict - It arises when you have to merge branches that have a confl
    IN GUI -- > click on pull request under repositories  to find the conflict file
    in CLI --> git status 
    finally we merge the conflicting commits into a single commit 
+
    
 Thank you very much guys!!!!!!!!!!!!!!
 Have a wonderful day
+
+   Good night sweet dreams
+
